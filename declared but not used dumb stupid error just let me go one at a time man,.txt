@@ -1,0 +1,3 @@
+  Texture2D yuri = LoadTexture("images/characters/yuri.png");
+  Texture2D natsuki = LoadTexture("images/characters/natuski.png");
+  Texture2D monika = LoadTexture("images/characters/monika.png");
